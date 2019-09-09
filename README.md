@@ -1,12 +1,9 @@
 # sbox-react-native-image-slider
 Beatifully simple react native image slider.
 
-![](sbox-react-native-image-slider-preview.gif?style=centerme)
-
-img[src$="centerme"] {
-  display:block;
-  margin: 0 auto;
-}
+<p align="center">
+    <img src="sbox-react-native-image-slider-preview.gif" alt="Image" width="800" height="600" />
+</p>
 
 # Getting started
 ## Install
