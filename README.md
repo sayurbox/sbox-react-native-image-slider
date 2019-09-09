@@ -2,7 +2,7 @@
 Beatifully simple react native image slider.
 
 <p align="center">
-    <img src="sbox-react-native-image-slider-preview.gif" alt="Image" width="800" height="600" />
+    <img src="sbox-react-native-image-slider-preview.gif" />
 </p>
 
 # Getting started
