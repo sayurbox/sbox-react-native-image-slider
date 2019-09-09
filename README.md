@@ -1,12 +1,12 @@
 # sbox-react-native-image-slider
 Beatifully simple react native image slider.
 
-![](sbox-react-native-image-slider-preview.gif)
+![](sbox-react-native-image-slider-preview.gif?style=centerme)
 
 # Getting started
 ## Install
 To install, as usual you just need to install it via npm with this command :
-> npm install sbox-react-native-image-slider
+> npm i sbox-react-native-image-slider --save
 
 ## How to use it
 It's a pretty easy to use this library. This is the usage example :
