@@ -1,0 +1,42 @@
+{
+  "name": "sbox-react-native-image-slider",
+  "version": "1.0.0",
+  "description": "Beautifully simple react native image slider.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayurbox/sbox-react-native-image-slider.git"
+  },
+  "keywords": [
+    "\"react",
+    "native",
+    "image",
+    "slider\"",
+    "\"image",
+    "slider\"",
+    "\"react",
+    "native",
+    "carousel\"",
+    "\"carousel",
+    "for",
+    "react",
+    "native\"",
+    "\"image",
+    "slider",
+    "for",
+    "react",
+    "native\""
+  ],
+  "author": "Galih Laras Prakoso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sayurbox/sbox-react-native-image-slider/issues"
+  },
+  "homepage": "https://github.com/sayurbox/sbox-react-native-image-slider#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.56.0"
+  }
+}
