@@ -3,6 +3,11 @@ Beatifully simple react native image slider.
 
 ![](sbox-react-native-image-slider-preview.gif?style=centerme)
 
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
+
 # Getting started
 ## Install
 To install, as usual you just need to install it via npm with this command :
